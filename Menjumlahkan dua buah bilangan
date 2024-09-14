@@ -1,4 +1,4 @@
-angka1 = int(input("masukkan angka"))
-angka2 = int(input("masukkan angka"))
-hasil = angka1 + angka2
-print(f"{angka1} + {angka2} = {hasil}")
+Bialnagn1 = int(input("masukkan Bilangan"))
+Bilangan2 = int(input("masukkan Bilangan"))
+hasil = Bilangan1 + Bilangan2
+print(f"{Bilangan1} + {Bilangan2} = {hasil}")
