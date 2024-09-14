@@ -1,0 +1,4 @@
+angka1 = int(input("masukkan angka"))
+angka2 = int(input("masukkan angka"))
+hasil = angka1 + angka2
+print(f"{angka1} + {angka2} = {hasil}")
