@@ -1,4 +1,4 @@
 angka1= int(input("masukkan Bilangan")) 
 angka2= int(input("masukkan Bilangan"))
 hasil = angka1 + angka2
-print(f"hasil dari {angka1} + {angka2} = {hasil}")
+print("hasilnya adalah", hasil)
